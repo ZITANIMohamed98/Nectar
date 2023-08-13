@@ -2,6 +2,9 @@ import React from 'react'
 
 import {AboutUs, Benifits, Cosmetics, Header, Intro, Reviews, Source, Testimonials} from './container';
 import {Navbar, Footer} from './components';
+
+import './App.css';
+
 const App = () => {
   return (
     <div>
